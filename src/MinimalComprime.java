@@ -14,7 +14,7 @@ public class MinimalComprime {
                             break;
                         }
                     }
-                    if (isMinimal) count++;
+                    if (isMinimal) count+=1;
                 }
             }
         }
